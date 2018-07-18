@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+ 
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <AssemblyName>Oragon.Common</AssemblyName>
+        <RootNamespace>Oragon</RootNamespace>
+        <Authors>LuizCarlosFaria</Authors>
+        <Company>oragon.io</Company>
+        <Product>Oragon</Product>
+        <Description>Oragon.Common a support for Oragon projects</Description>
+        <PackageId>Oragon.Common</PackageId>
+        <PackageProjectUrl>https://github.com/Oragon/Oragon.Spring</PackageProjectUrl>
+        <PackageIconUrl>http://gago.io/wp-content/uploads/2014/03/Oragon-Architecture-Penknife.export.png</PackageIconUrl>
+        <RepositoryUrl>https://github.com/Oragon/Oragon.Spring</RepositoryUrl>
+        <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+        <Version>1.0.0-alpha</Version>
+        <Copyright>Copyright 2018</Copyright>
+        <PackageTags>Oragon Architecture,  Oragon, Architecture, luiz, carlos, faria, luizcarlosfaria, oragonarchitect</PackageTags>
+    </PropertyGroup>
+
+ 
+    <ItemGroup>
+      <PackageReference Include="FluentAssertions" Version="5.4.1" />
+      <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    </ItemGroup>
+
+</Project>
