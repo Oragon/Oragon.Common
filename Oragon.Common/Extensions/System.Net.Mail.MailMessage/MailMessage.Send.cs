@@ -2,7 +2,7 @@
 
 using System.Net.Mail;
 
-namespace Oragon.Architecture.Extensions
+namespace Oragon.Extensions
 {
 	public static partial class OragonExtensions
 	{

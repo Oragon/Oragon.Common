@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 
-namespace Oragon.Architecture.Extensions
+namespace Oragon.Extensions
 {
 	///<summary>
 	///Provides a set of extension methods dedicated to enumerables.

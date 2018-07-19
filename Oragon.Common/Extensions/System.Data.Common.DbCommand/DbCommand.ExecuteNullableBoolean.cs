@@ -4,7 +4,7 @@ using System;
 using System.Data.Common;
 using System.Globalization;
 
-namespace Oragon.Architecture.Extensions
+namespace Oragon.Extensions
 {
 	public static partial class OragonExtensions
 	{

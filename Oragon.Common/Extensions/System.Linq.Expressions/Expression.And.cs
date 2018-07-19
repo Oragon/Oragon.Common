@@ -4,7 +4,7 @@ using System;
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace Oragon.Architecture.Extensions
+namespace Oragon.Extensions
 {
 	public static partial class OragonExtensions
 	{

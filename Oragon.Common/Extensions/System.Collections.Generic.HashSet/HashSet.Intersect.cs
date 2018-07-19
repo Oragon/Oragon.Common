@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using FluentAssertions;
 
-namespace Oragon.Architecture.Extensions
+namespace Oragon.Extensions
 {
 	public static partial class OragonExtensions
 	{

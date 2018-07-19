@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Runtime.Serialization;
 
-namespace Oragon.Architecture.Logging
+namespace Oragon.Logging
 {
 	/// <summary>
 	///     Classe LogEntry.

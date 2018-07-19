@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Oragon.Architecture.ExtendedTypes
+namespace Oragon.ExtendedTypes
 {
 	[Serializable]
 	public class DateRange : Range<DateTime>

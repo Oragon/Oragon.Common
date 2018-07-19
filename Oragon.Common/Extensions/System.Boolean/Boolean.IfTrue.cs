@@ -3,7 +3,7 @@
 using FluentAssertions;
 using System;
 
-namespace Oragon.Architecture.Extensions
+namespace Oragon.Extensions
 {
 	public static partial class OragonExtensions
 	{

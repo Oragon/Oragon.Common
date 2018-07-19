@@ -1,10 +1,10 @@
 ﻿using FluentAssertions;
-using Oragon.Architecture.Extensions;
+using Oragon.Extensions;
 using System;
 using System.Linq;
 using System.Collections.Generic;
 
-namespace Oragon.Architecture.Logging
+namespace Oragon.Logging
 {
 	public abstract class AbstractLogger : ILogger
 	{

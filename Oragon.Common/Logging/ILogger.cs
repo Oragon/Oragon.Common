@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Oragon.Architecture.Logging
+namespace Oragon.Logging
 {
 	public interface ILogger
 	{

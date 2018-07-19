@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Oragon.Architecture.Logging
+namespace Oragon.Logging
 {
 	[DataContract]
 	public enum LogLevel

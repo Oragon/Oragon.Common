@@ -3,7 +3,7 @@
 using System.IO;
 using System.Xml.Serialization;
 
-namespace Oragon.Architecture.Extensions
+namespace Oragon.Extensions
 {
 	public static partial class OragonExtensions
 	{

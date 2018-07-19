@@ -10,9 +10,9 @@
         <Product>Oragon</Product>
         <Description>Oragon.Common a support for Oragon projects</Description>
         <PackageId>Oragon.Common</PackageId>
-        <PackageProjectUrl>https://github.com/Oragon/Oragon.Spring</PackageProjectUrl>
+        <PackageProjectUrl>https://github.com/Oragon/Oragon.Common</PackageProjectUrl>
         <PackageIconUrl>http://gago.io/wp-content/uploads/2014/03/Oragon-Architecture-Penknife.export.png</PackageIconUrl>
-        <RepositoryUrl>https://github.com/Oragon/Oragon.Spring</RepositoryUrl>
+        <RepositoryUrl>https://github.com/Oragon/Oragon.Common</RepositoryUrl>
         <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
         <Version>1.0.0-alpha</Version>
         <Copyright>Copyright 2018</Copyright>

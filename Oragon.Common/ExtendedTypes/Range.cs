@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using FluentAssertions;
 
-namespace Oragon.Architecture.ExtendedTypes
+namespace Oragon.ExtendedTypes
 {
 	public class Range<T> : IEquatable<Range<T>>
 		 where T : struct, IComparable<T>, IEquatable<T>

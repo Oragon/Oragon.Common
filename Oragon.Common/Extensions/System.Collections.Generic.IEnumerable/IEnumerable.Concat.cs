@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using FluentAssertions;
 using System.Linq;
 
-namespace Oragon.Architecture.Extensions
+namespace Oragon.Extensions
 {
 	public static partial class OragonExtensions
 	{

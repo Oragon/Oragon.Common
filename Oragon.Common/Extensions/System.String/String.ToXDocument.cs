@@ -5,7 +5,7 @@ using System.IO;
 using System.Text;
 using System.Xml.Linq;
 
-namespace Oragon.Architecture.Extensions
+namespace Oragon.Extensions
 {
 	public static partial class OragonExtensions
 	{

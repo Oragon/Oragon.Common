@@ -3,7 +3,7 @@
 using System;
 using System.Data.Common;
 
-namespace Oragon.Architecture.Extensions
+namespace Oragon.Extensions
 {
 	public static partial class OragonExtensions
 	{

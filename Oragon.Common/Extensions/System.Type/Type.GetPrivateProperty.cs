@@ -3,7 +3,7 @@
 using System;
 using System.Reflection;
 
-namespace Oragon.Architecture.Extensions
+namespace Oragon.Extensions
 {
 	public static partial class OragonExtensions
 	{
