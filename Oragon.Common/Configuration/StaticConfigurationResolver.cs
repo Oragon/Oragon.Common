@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Tasks;
 
 namespace Oragon.Configuration
 {
@@ -9,6 +10,11 @@ namespace Oragon.Configuration
         public string GetConfiguration()
         {
             return this.Configuration;
+        }
+
+        public Task<string> GetConfigurationAsync()
+        {
+            return Task.FromResult(this.GetConfiguration());
         }
     }
 }
